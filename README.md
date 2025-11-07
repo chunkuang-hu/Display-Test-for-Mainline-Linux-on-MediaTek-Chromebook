@@ -4,7 +4,7 @@ To ensure the quality, stability, and long-term maintenance of display for Mainl
 
 Current test platform include:
 
-1. HP 11a-na0040nr
+1. HP 11a-na0040nr (MT8183 Chromebook kappa)
 
 Current test include:
 
