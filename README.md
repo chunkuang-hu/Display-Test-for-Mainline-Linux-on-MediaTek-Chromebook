@@ -15,6 +15,8 @@ Current test include:
 
 After test, generate report for test result. If some test fail, bisect the source code, find out the fail reason, and fix the problem.
 
-[1] 
+[1] https://github.com/chunkuang-hu/Mainline-Linux-on-MediaTek-Chromebook
+
 [2] https://gitlab.freedesktop.org/mesa/libdrm/-/tree/master/tests/modetest
+
 [3] https://drm.pages.freedesktop.org/igt-gpu-tools/
